@@ -1,0 +1,12 @@
+{
+  "source": "/Users/nathaliacardoso/Desktop/Fastlane-Teste/Fastlane_Teste/Fastlane_Teste/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -10,7 +10,7 @@ import XCTest
 final class Fastlane_TesteTests: XCTestCase {
 
     func testExample() throws {
-        XCTAssertEqual(2+2, 4)
+        XCTAssertEqual(2+3, 5)
     }
 
 }

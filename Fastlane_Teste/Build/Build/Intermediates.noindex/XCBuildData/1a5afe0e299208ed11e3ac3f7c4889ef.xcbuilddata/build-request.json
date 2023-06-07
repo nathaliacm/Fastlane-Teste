@@ -1,0 +1,71 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "15ff36104e38f77a8a049449e8e98097c3dd154c79adc876a51a962e58f23de0"
+    },
+    {
+      "guid" : "15ff36104e38f77a8a049449e8e98097a627d0fd47a52486b73fb50c3e83c950"
+    }
+  ],
+  "containerPath" : "/Users/nathaliacardoso/Desktop/Fastlane-Teste/Fastlane_Teste/Fastlane_Teste.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/nathaliacardoso/Desktop/Fastlane-Teste/Fastlane_Teste/Build/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/nathaliacardoso/Desktop/Fastlane-Teste/Fastlane_Teste/Build/Build/Products",
+      "derivedDataPath" : "/Users/nathaliacardoso/Desktop/Fastlane-Teste/Fastlane_Teste/Build",
+      "indexDataStoreFolderPath" : "/Users/nathaliacardoso/Desktop/Fastlane-Teste/Fastlane_Teste/Build/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/nathaliacardoso/Desktop/Fastlane-Teste/Fastlane_Teste/Build/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/nathaliacardoso/Desktop/Fastlane-Teste/Fastlane_Teste/Build/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "SDKROOT" : "iphonesimulator16.4"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,7",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,7",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/nathaliacardoso/Desktop/Fastlane-Teste/Fastlane_Teste/Build/Build/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "644512C1-5E8F-4677-8950-7437DB78751F",
+          "TARGET_DEVICE_MODEL" : "iPhone14,7",
+          "TARGET_DEVICE_OS_VERSION" : "16.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
