@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Fastlane_Teste in Fastlane_Teste, no dependencies
+Fastlane_TesteTests in Fastlane_Teste, depends on:
+Fastlane_Teste in Fastlane_Teste (explicit)

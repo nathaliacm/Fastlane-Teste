@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "4752cd67ea06fb6791f9b0402212ebb553e9a6c1961f8f7675435eb44acdbbda"
+build_start_time: [1686103477, 478354000]
+build_end_time: [1686103483, 777794000]
+inputs:
+  "/Users/nathaliacardoso/Desktop/Fastlane-Teste/Fastlane_Teste/Fastlane_Teste/ContentView.swift": [1686101312, 426420427]
+  "/Users/nathaliacardoso/Desktop/Fastlane-Teste/Fastlane_Teste/Fastlane_Teste/Fastlane_TesteApp.swift": [1686101312, 419137377]

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>37509272-6494-4E15-AFC2-E0E987C4A3EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>37509272-6494-4E15-AFC2-E0E987C4A3EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastlane_Teste project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastlane_Teste</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace Fastlane_Teste with scheme Fastlane_Teste</string>
+			<key>timeStartedRecording</key>
+			<real>707796252.55777895</real>
+			<key>timeStoppedRecording</key>
+			<real>707796276.81132495</real>
+			<key>title</key>
+			<string>Building workspace Fastlane_Teste with scheme Fastlane_Teste</string>
+			<key>uniqueIdentifier</key>
+			<string>37509272-6494-4E15-AFC2-E0E987C4A3EA</string>
+		</dict>
+		<key>EE265BE6-7B56-455E-861F-76F3D744B075</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EE265BE6-7B56-455E-861F-76F3D744B075.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Fastlane_Teste project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Fastlane_Teste</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Testing workspace Fastlane_Teste with scheme Fastlane_Teste</string>
+			<key>timeStartedRecording</key>
+			<real>707796276.869838</real>
+			<key>timeStoppedRecording</key>
+			<real>707796283.77950394</real>
+			<key>title</key>
+			<string>Testing workspace Fastlane_Teste with scheme Fastlane_Teste</string>
+			<key>uniqueIdentifier</key>
+			<string>EE265BE6-7B56-455E-861F-76F3D744B075</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Fastlane_Teste in Fastlane_Teste, no dependencies
